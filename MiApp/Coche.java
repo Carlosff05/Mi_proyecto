@@ -33,4 +33,6 @@ public class Coche {
         System.out.println("El coche está acelerando de " + getVelocidad() + " a " + (getVelocidad() + acelerado));
         setVelocidad(getVelocidad() + acelerado);
     }
+
+    "Esto es un error"
 }
