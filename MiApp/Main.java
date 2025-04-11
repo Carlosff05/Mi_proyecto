@@ -4,7 +4,5 @@ public class Main {
         Coche c1 = new Coche("Loque sea", 20);
 
         c1.acelerar(20);
-
-        System.out.println("El coche tiene " + c1.getCaballos());
     }
 }
