@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Esto es un print");
 
         Coche rojo = new Coche("aljdfaljfdaljf", 120);
+
+        System.out.println(rojo);
     }
 }
